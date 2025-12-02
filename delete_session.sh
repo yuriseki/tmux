@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-RESURRECT_DIR="$HOME/.config/tmux/resurrect"
+RESURRECT_DIR="$HOME/.tmux-resurrect"
 SAVE_FILE="$RESURRECT_DIR/last"
 
 # 1. Pick a session
